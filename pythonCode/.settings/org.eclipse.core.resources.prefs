@@ -2,5 +2,7 @@ eclipse.preferences.version=1
 encoding//src/socket/Client.py=utf-8
 encoding//src/socket/Server.py=utf-8
 encoding//src/socket/TestClient.py=utf-8
+encoding//src/socket/TestClient2.py=utf-8
 encoding//src/socket/TestServer.py=utf-8
+encoding//src/socket/TestServer2.py=utf-8
 encoding/<project>=UTF-8
